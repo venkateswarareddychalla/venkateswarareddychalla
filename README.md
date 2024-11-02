@@ -12,7 +12,7 @@ Graduating  June ‘25 and actively seeking full - stack software developer posi
 
 ### About Me
 
-Aspiring software developer with a passion for creating user-friendly applications. Currently seeking internships to further develop my skills and contribute to innovative projects. 
+Full Stack Developer | Building Seamless Web Solutions with ReactJS, JavaScript, HTML, CSS & Backend Technologies | Passionate about Innovation & Crafting User-Centric Experiences
 
 ---
 
@@ -37,9 +37,10 @@ Aspiring software developer with a passion for creating user-friendly applicatio
 ---
 
 ### Skills
-- **Languages:** JavaScript, Python, HTML, CSS
-- **Frameworks:** React, Node.js, Express
-- **Tools:** Git, mySql
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript, React.js
+- **Backend:** Python, Express, Node.js
+- **Database:** SQLite
+- **Other skills:** C++, Git
 
 ---
 
