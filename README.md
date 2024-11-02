@@ -5,7 +5,7 @@ Here's a fun fact for you: he concept of “pair programming” in software deve
 ### Venkateswara Reddy Challa
 
 **Email:** [venkateswarareddychalla6@gmail.com](mailto:venkateswarareddychalla6@gmail.com)  
-**Looking for:** Internships in Software Development  
+Graduating  June ‘25 and actively seeking full - stack software developer positions to leverage my 3 + years of experience and expertise in cutting - edge technologies .  
 
 
 ---
